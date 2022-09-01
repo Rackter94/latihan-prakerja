@@ -1,0 +1,15 @@
+*,html,body {
+margin: 0;
+padding: 0;
+font-family: 'Times New Roman', Times, serif;
+}
+
+.fcontainer{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(54, 121, 180);
+}
+
+.wrapper{
+columns: auto;
+}
